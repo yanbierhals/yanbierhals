@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanbierhals
-- 👀 I’m interested in learn js
+- 👀 I’m interested in learn Web Dev
 - 🌱 I’m currently learning full stack web
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me contact yanrbierhals@gmail.com
