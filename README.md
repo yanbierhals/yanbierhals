@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @yanbierhals
-- 👀 I’m interested in learn Web Dev
-- 🌱 I’m currently learning full stack web
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me contact yanrbierhals@gmail.com
+### Hi, I'm Yan 👋
 
-<!---
-yanbierhals/yanbierhals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Software Engineer based in Porto Alegre, Brazil 🇧🇷
+
+I build and maintain large-scale backend systems with a focus on reliability, performance, and clean architecture. Currently working on critical platforms in the public sector.
+
+---
+
+#### 🛠️ Tech I work with
+
+**Backend:** C#, .NET, ASP.NET Core, REST APIs
+**Data:** SQL Server, PostgreSQL, Entity Framework Core
+**Cloud & DevOps:** Docker, Kubernetes, Azure DevOps, CI/CD
+**Frontend:** Angular, TypeScript
+
+#### 📫 Let's connect
+
+- **LinkedIn:** [linkedin.com/in/yan-bierhals](https://www.linkedin.com/in/yan-bierhals)
